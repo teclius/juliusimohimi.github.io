@@ -1,1 +1,5 @@
-I’m Julius Imohimi, a biochemist with practical experience in digital operations across education, tech, and finance sectors. I hold certifications in professional conduct, data analysis, and health safety, and have strong technical skills in Python, MS Excel, CRM, and data analytics. Currently, I’m a Data Analysis Instructor, passionate about helping learners master data visualization and statistical analysis.
+I’m Julius Imohimi, a biochemist with practical experience in digital operations across education, tech, and finance sectors.
+
+I hold certifications in professional conduct, data analysis, and health safety, and have strong technical skills in Python, MS Excel, CRM, and data analytics. 
+
+Currently, I passionate about helping learners master data visualization and statistical analysis.
